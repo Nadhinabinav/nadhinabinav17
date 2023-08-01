@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOGIN FORMt</title>
+    <link rel ="stylesheet" href="page2.css">
+</head>
+<body>
+    <div class="lohin-form">
+        <h1>Login Form</h1>
+        <form action="#" method="post">
+            <p>User Name</p>
+            <input type="text" name="user" placeholder="User Name">
+            <p>password</p>
+            <input type="password" name="password" placeholder="password">
+            <button type="submit">Login</button>
+    <div>
+</body>
+</html>
